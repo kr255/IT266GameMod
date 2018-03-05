@@ -13,6 +13,7 @@
 	
 ===============================================================================
 */
+// global constatns as defined by externs-- defined by externs
 
 extern const idEventDef EV_Player_GetButtons;
 extern const idEventDef EV_Player_GetMove;
