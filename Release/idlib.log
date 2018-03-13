@@ -1,0 +1,10 @@
+﻿Build started 2/26/2018 9:25:59 PM.
+     1>Project "C:\Users\kamranpc\Documents\IT266\quake4\idlib.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (C:\Users\kamranpc\Documents\IT266\quake4\Release\) contains files shared from another project (game.vcxproj, mpgame.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Lib:
+         idlib.vcxproj -> C:\Users\kamranpc\Documents\IT266\quake4\Release\idlib.lib
+     1>Done Building Project "C:\Users\kamranpc\Documents\IT266\quake4\idlib.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.62
